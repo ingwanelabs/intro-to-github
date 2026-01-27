@@ -1,5 +1,5 @@
-##Jo 
+## Jo 
 
-#I am a SQL Developer in the NHS learning about Data Engineering
+# I am a SQL Developer in the NHS learning about Data Engineering
 
 Fun Fact: I can blow my own trumpet and will be seeing Kylie next week.
