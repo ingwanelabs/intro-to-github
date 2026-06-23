@@ -1,4 +1,5 @@
 # Chris D
 
 **Role:** Learning
-**Fun Fact:** Not intersted in AI
+
+**Fun Fact:** I live near the Angel of the North
