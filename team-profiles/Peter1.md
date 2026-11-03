@@ -1,2 +1,2 @@
 This is my profile
-It's cliudy today.
+It's cloudy today.
