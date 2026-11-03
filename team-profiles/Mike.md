@@ -1,2 +1,5 @@
 # Mike
-Mike has forked this repo and added this file
+
+**Role:** Data & Reporting Analyst
+
+**Fun Fact:** I have over 120 board games
