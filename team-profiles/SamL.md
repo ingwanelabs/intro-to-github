@@ -1,5 +1,5 @@
 # Sam
 
-**Role:** Data Analyst
+**Role:** Data Analyst 
 
-**Fun Fact:** I can speak French
+**Fun Fact:** I can speak French.
